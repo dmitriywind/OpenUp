@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\iPractice.DataAccess\iPractice.DataAccess.Entity.csproj" />
+    <ProjectReference Include="..\iPractice.Models\iPractice.Models.csproj" />
+  </ItemGroup>
+
+</Project>
